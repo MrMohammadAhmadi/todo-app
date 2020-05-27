@@ -1,0 +1,44 @@
+nav input {
+  padding: 5px 10px;
+  border-radius: 3px;
+  border: 1px solid lightgray;
+  margin: 5px 5px;
+  width: 50%;
+}
+nav button {
+  padding: 5px 10px;
+  border-radius: 100px;
+  border: none;
+  background-color: lightgray;
+  box-shadow: gray;
+}
+.navbar {
+  margin-bottom: 0;
+  z-index: 9999;
+  border-bottom: 2px solid lightgray;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 4px;
+  border-radius: 0;
+  font-family: Montserrat, sans-serif;
+}
+.navbar li a,
+.navbar .navbar-brand {
+  color: black !important;
+}
+.navbar-default .navbar-toggle {
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  color: gray !important;
+  background-color: white;
+}
+
+@media screen and (max-width: 768px) {
+  #myNavbar input {
+    margin: 20px 0 0 0;
+    width: 100%;
+  }
+  #myNavbar button {
+    margin-top: 10px;
+  }
+}
