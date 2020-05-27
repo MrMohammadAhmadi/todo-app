@@ -2,6 +2,11 @@
 
 Todo List is a simple web application to manage your daily tasks.
 
+![](https://raw.githubusercontent.com/MrMohammadAhmadi/todo-app/master/app-screenshot1.png)
+![](https://raw.githubusercontent.com/MrMohammadAhmadi/todo-app/master/app-screenshot2.png)
+
+**demo** : [http://mrmohammadahmadi.github.io/TodoList](http://mrmohammadahmadi.github.io/TodoList)
+
 ### `Requirments`
 
 - Mongodb
@@ -16,14 +21,14 @@ Todo List is a simple web application to manage your daily tasks.
 
 ### `Technologies used`
 
-**HTML
-CSS
-Bootstrap 4
-React
-Node.js
-Express
-MongoDB
-jQuery**
+- HTML
+- CSS
+- Bootstrap 4
+- React
+- Node.js
+- Express
+- MongoDB
+- jQuery
 
 ### `How to use`
 
