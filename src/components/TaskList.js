@@ -34,10 +34,6 @@ const TaskList = () => {
   const [taskList, dispatch] = useReducer(taskListReducer, []);
 
   useEffect(() => {
-    dispatch({
-      type: "SET",
-      payload: [{ id: "3323442234", title: "read a book", checked: false }],
-    });
     getTodoList();
   }, []);
   const getTodoList = async () => {
