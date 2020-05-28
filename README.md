@@ -1,6 +1,6 @@
 ## TodoList App
 
-**demo** :[http://http://mrmohammadahmadi.github.io/todolist-app-demo](http://http://mrmohammadahmadi.github.io/todolist-app-demo)
+**demo** :[http://mrmohammadahmadi.github.io/todolist-app-demo](http://mrmohammadahmadi.github.io/todolist-app-demo)
 
 Todo List is a simple web application to manage your daily tasks.
 ![](https://raw.githubusercontent.com/MrMohammadAhmadi/todo-app/master/app-screenshot2.png)
